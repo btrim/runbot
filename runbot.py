@@ -145,7 +145,7 @@ def main():
     runs = list(filter(lambda r: r.id not in old_runs, raw_runs))
 
     print_runs(runs)
-    #generate_webhooks(webhook_url, webhook_name, runs)
+    generate_webhooks(webhook_url, webhook_name, runs)
 
     old_runs.extend(run.id for run in runs)
 

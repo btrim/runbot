@@ -10,5 +10,7 @@ The other file (specified in the config) stores the state for the bot of runs it
 You will need to create a discord webhook for the channel you want the program to post to.
 
 There are likely numerous ways to achieve this goal, this happens to be how I did it.  Feel free to adapt it to your liking.
+
 Requires python 3.4+
+
 Dependencies: discord_webhook and requests.

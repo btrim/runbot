@@ -1,0 +1,10 @@
+{
+  
+  "webhook":  "DISCORD_WEBHOOK_URL",
+     "name":  "Testy McTestFace",
+   "series":  "r4gv3y41",
+  "runfile":  "/absolute/path/to/runfile.json",
+   "params": [ "platform=YOUR_PLATFORM", "status=verified", "orderby=submitted", 
+	       "direction=desc", "max=10"
+   ]
+}

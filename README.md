@@ -1,7 +1,7 @@
 # runbot
 A discord bot which polls speedrun.com for runs and posts them via discord webhooks.
 
-This program is meant to run periodically (via cron for example)
+This program is meant to be run periodically (via cron for example)
 
 There are two files used.  One is a configuration file in JSON.
 

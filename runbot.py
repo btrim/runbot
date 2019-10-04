@@ -105,6 +105,9 @@ def main():
 
     args = parser.parse_args()
     print(args)
+    if args.config is None:
+        parser.print_help()
+        exit(1)
 
 
 

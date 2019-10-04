@@ -1,0 +1,10 @@
+{
+
+  "webhook":  "DISCORD_WEBHOOK_URL",
+     "name":  "Pluto",
+   "series":  "r4gv3y41",
+  "runfile":  "/home/example/projects/runbot/series.runfile.json",
+   "params": [ "status=verified", "orderby=submitted",
+               "direction=desc", "max=10" ]
+}
+~                                    

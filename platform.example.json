@@ -1,0 +1,9 @@
+{
+  
+  "webhook":  "DISCORD_WEBHOOK_URL",
+     "name":  "Hapsby",
+  "runfile":  "/home/example/platform.runfile.json",
+   "params": [ "status=verified", "orderby=submitted", 
+	       "direction=desc", "max=40",
+	       "platform=83exwk6l"   ]
+}
